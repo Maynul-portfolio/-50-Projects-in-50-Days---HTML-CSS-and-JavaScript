@@ -23,10 +23,14 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 90vh;
-    border: 10px;
-
+    height: 80vh;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    flex: 0.5;
 }
+
+
 
 
 
